@@ -1,0 +1,39 @@
+Road-Project-45KM-Bridge/
+│
+├── README.md
+│
+├── 01_Project_Charter/
+│     └── project_charter.md
+│
+├── 02_Project_Scope/
+│     └── scope_document.md
+│
+├── 03_WBS/
+│     └── wbs_full.md
+│
+├── 04_Project_Schedule/
+│     └── master_schedule_table.md
+│
+├── 05_Budget/
+│     └── budget_breakdown.md
+│
+├── 06_Procurement/
+│     └── procurement_plan.md
+│
+├── 07_Milestones/
+│     ├── milestone_1_km0-4_5.md
+│     ├── milestone_2_km4_5-9.md
+│     ├── milestone_3_km9-13_5.md
+│     ├── milestone_4_km13_5-18.md
+│     ├── milestone_5_km18-22_5.md
+│     ├── milestone_6_km22_5-27.md
+│     ├── milestone_7_km27-31_5.md
+│     ├── milestone_8_km31_5-36.md
+│     ├── milestone_9_km36-40_5.md
+│     └── milestone_10_km40_5-45.md
+│
+├── 08_Reports/
+│     └── template_weekly_report.md
+│
+└── 09_Scrum/
+      └── sprint_framework.md
